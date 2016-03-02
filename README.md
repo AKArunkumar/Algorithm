@@ -1,3 +1,3 @@
 # Algorithm
-Codes for Algorithm.
+Algorithm Codes.
 
